@@ -1,0 +1,15 @@
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\bin\Debug\KTra.exe.config
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\bin\Debug\KTra.exe
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\bin\Debug\KTra.pdb
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\bin\Debug\EntityFramework.dll
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\bin\Debug\EntityFramework.xml
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\obj\Debug\KTra.csproj.AssemblyReference.cache
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\obj\Debug\KTra.Form1.resources
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\obj\Debug\KTra.Properties.Resources.resources
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\obj\Debug\KTra.csproj.GenerateResource.cache
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\obj\Debug\KTra.csproj.CoreCompileInputs.cache
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\obj\Debug\KTra.csproj.Up2Date
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\obj\Debug\KTra.exe
+C:\Users\Nmcuo\source\repos\NguyenManhCuong_2280600351_Ktragiuaki\KTra\obj\Debug\KTra.pdb
